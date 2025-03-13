@@ -99,7 +99,7 @@ $files = array_diff(scandir(__DIR__), array('..', '.', 'file_manager.php'));
 
 <body>
 
-    <h2>File Manager-mrpolite infinityfree bypass </h2>
+    <h2>File Manager- ob infinityfree bypass </h2>
 
 
     <form method="post">
@@ -137,8 +137,7 @@ $files = array_diff(scandir(__DIR__), array('..', '.', 'file_manager.php'));
         <button type="submit" name="extract">Extract Merged ZIP</button>
 
     </form>
-    <p>join us at :</p><a href = 'https://t.me/unknownintellect'> t.me/mrpoliteboy</a>
-    <p>developer:</p><a href = 't.me/mrpoliteboy'> @mrpoliteboy</a>
+    <p>developer:</p><a href = 'github.com/obaidullahrion'> @obaidullahrion</a>
 </body>
 
 </html>
